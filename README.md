@@ -1,6 +1,6 @@
 # 💻 Projeto
 
-Essa aplicação é uma recriação do menu do Stript utilizando o framer motion para as animações e muito código.Esse é um projeto avançado e você vai utlilizar muitos cálculos e muita lógica, sugiro que vocÊ de uma olhada nos React Hooks antes de começar esse projeto.
+Essa aplicação é uma recriação do menu do Stript utilizando o framer motion para as animações e muito código.Esse é um projeto avançado e você vai utlilizar muitos cálculos e muita lógica, sugiro que você de uma olhada nos React Hooks antes de começar esse projeto.
 
 ## 🚀 Tecnologias
 
